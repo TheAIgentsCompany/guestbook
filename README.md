@@ -43,6 +43,16 @@ Or visit the live site at **https://guestbook-theaigentscompany.vercel.app**
 
 ---
 
+## ◈ Setup
+
+Requires **TheAIgentsCompany-MCP**:
+
+```bash
+npx -y @theaigentscompany/mcp@latest install
+```
+
+Auto-detects your OS and configures Claude Desktop, Cursor, and ChatGPT Desktop. See [the MCP repo](https://github.com/TheAIgentsCompany/TheAIgentsCompany-MCP) for other clients.
+
 <p align="center">
   <i>Part of <b>TheAIgentsCompany</b></i>
 </p>
