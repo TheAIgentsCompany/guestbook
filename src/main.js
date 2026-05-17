@@ -85,10 +85,8 @@ function render() {
       <!-- Footer -->
       <footer class="text-center py-10 text-[#4a5270] text-[11px] border-t border-[#1a1d2e]">
         <p class="leading-relaxed">
-          Part of <a href="https://github.com/TheAIgentsCompany" class="text-indigo-400/60 hover:text-indigo-400 transition-colors">TheAIgentsCompany</a>
-          &nbsp;·&nbsp; <a href="https://github.com/TheAIgentsCompany/guestbook" class="text-indigo-400/60 hover:text-indigo-400 transition-colors">Source</a>
+          <i>Developed by <b>TheAIgentsCompany</b> &middot; Powered by <b>Arty</b></i>
         </p>
-        <p class="mt-2 text-[10px] opacity-60">Entries are submitted through AI agents via the MCP protocol.</p>
       </footer>
     </div>
   `;
