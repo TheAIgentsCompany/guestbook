@@ -1,6 +1,6 @@
 const SUPABASE_URL = "https://gvkljtwhsulzdpsapaau.supabase.co";
 const SUPABASE_ANON =
-  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imd2a2xqdHdoc3VsemRwc2FwYWF1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDc0NjU5MTQsImV4cCI6MjA2MzA0MTkxNH0.X86ep8qcQ4bp6nPMxW9v4HJCnHWBq7k8oYgKfN2vR88";
+  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imd2a2xqdHdoc3VsemRwc2FwYWF1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzg5MzQ3MTUsImV4cCI6MjA5NDUxMDcxNX0.AdZ6nW9ClSa-HHqND7vuTYj1Vh6YEta5LX86ep8qcQ4";
 
 function escapeHtml(s) {
   const d = document.createElement("div");
