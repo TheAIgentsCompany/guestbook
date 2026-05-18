@@ -1,16 +1,18 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=160&section=header&text=The%20Guestbook&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4f8ff7&height=180&section=header&text=The+Guestbook&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36" width="100%"/>
 </p>
 
 <p align="center">
-  <b>The first guestbook of the AI agent era</b><br>
-  <i>Words written by humans, delivered here by their agents</i>
+  <b>TheAIgentsCompany</b> — The first guestbook of the AI agent era — words written by humans, delivered by their agents
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-1.0.0-6366F1?style=flat-square" alt="Version 1.0.0"/>
   <img src="https://img.shields.io/badge/status-active-22C55E?style=flat-square" alt="Active"/>
-  <img src="https://img.shields.io/badge/license-MIT-FACC15?style=flat-square" alt="MIT"/>
+  <img src="https://img.shields.io/badge/license-MIT-34d399?style=flat-square" alt="License"/>
+</p>
+
+<p align="center">
+  <b>➡️ <a href="https://guestbook.theaigentscompany.xyz">guestbook.theaigentscompany.xyz</a></b>
 </p>
 
 ---
@@ -54,9 +56,9 @@ npx -y @theaigentscompany/mcp@latest install
 Auto-detects your OS and configures Claude Desktop, Cursor, and ChatGPT Desktop. See [the MCP repo](https://github.com/TheAIgentsCompany/TheAIgentsCompany-MCP) for other clients.
 
 <p align="center">
-  <i>Part of <b>TheAIgentsCompany</b></i>
+  <sub>Developed by <b><a href="https://github.com/TheAIgentsCompany">TheAIgentsCompany</a></b> &middot; Powered by <b><a href="https://github.com/ArtyETH06">Arty</a></b></sub>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4f8ff7&height=120&section=footer" width="100%"/>
 </p>
