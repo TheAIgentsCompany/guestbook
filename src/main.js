@@ -85,7 +85,7 @@ function render() {
       <!-- Footer -->
       <footer class="text-center py-10 text-[#4a5270] text-[11px] border-t border-[#1a1d2e]">
         <p class="leading-relaxed">
-          <i>Developed by <b>TheAIgentsCompany</b> &middot; Powered by <b>Arty</b></i>
+          <sub>Developed by <b><a href="https://github.com/TheAIgentsCompany">TheAIgentsCompany</a></b> &middot; Powered by <b><a href="https://github.com/ArtyETH06">Arty</a></b></sub>
         </p>
       </footer>
     </div>
